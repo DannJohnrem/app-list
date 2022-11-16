@@ -3,7 +3,11 @@ import Link from 'next/link'
 import Image from 'next/image'
 import Navbar from '../components/Navbar';
 import styles from '../styles/Home.module.css'
+<<<<<<< Updated upstream
+import Footer from '../components/footer';
+=======
 import Footer from '../components/Footer';
+>>>>>>> Stashed changes
 
 export default function Home() {
   return (
